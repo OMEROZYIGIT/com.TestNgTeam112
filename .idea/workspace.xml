@@ -5,20 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2dfb819a-1d73-4b1e-8b59-0a2466a338ed" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/day15_hard_soft_assert/C01_HardAssert.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/day15_hard_soft_assert/C02_SoftAssertion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/day15_hard_soft_assert/C03_SoftAssert.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/utilities/ReusableMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pages/ZeroPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/day15_hard_soft_assert/C05_SoftAssert.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/pages/AmazonPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pages/AmazonPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/tests/day01/C01_Priority.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/day14_testNgFrameWork/C01_Priority.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/tests/day01/C02_DependsOnMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/day14_testNgFrameWork/C02_DependsOnMethod.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/tests/day01/C03_NutellaTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/day14_testNgFrameWork/C03_NutellaTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/pages/AmazonPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/pages/AmazonPage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/day01/C01_Priority.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/day01/C02_DependsOnMethod.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/day01/C03_NutellaTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/day15_hard_soft_assert/C04_SoftAssert.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/day15_hard_soft_assert/C04_SoftAssert.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +39,7 @@
     "git-widget-placeholder": "main"
   }
 }]]></component>
-  <component name="RunManager" selected="TestNG.C03_SoftAssert.test01">
+  <component name="RunManager">
     <configuration name="C02_DependsOnMethod.test01" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="com.TestNgTeam112" />
       <extension name="coverage">

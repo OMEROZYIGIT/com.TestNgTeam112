@@ -4,7 +4,22 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2dfb819a-1d73-4b1e-8b59-0a2466a338ed" name="Changes" comment="" />
+    <list default="true" id="2dfb819a-1d73-4b1e-8b59-0a2466a338ed" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/day15_hard_soft_assert/C01_HardAssert.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/day15_hard_soft_assert/C02_SoftAssertion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/day15_hard_soft_assert/C03_SoftAssert.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/utilities/ReusableMethods.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/pages/AmazonPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pages/AmazonPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/day01/C01_Priority.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/day14_testNgFrameWork/C01_Priority.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/day01/C02_DependsOnMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/day14_testNgFrameWork/C02_DependsOnMethod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/day01/C03_NutellaTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/day14_testNgFrameWork/C03_NutellaTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/pages/AmazonPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/pages/AmazonPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/day01/C01_Priority.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/day01/C02_DependsOnMethod.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/day01/C03_NutellaTest.class" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,28 +32,33 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="2VxQovkRKnzpDAvy6LNdCIxu3Oh" />
   <component name="ProjectViewState">
     <option name="autoscrollToSource" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main"
   }
-}</component>
-  <component name="RunManager" selected="TestNG.C02_DependsOnMethod.test01">
+}]]></component>
+  <component name="RunManager" selected="TestNG.C03_SoftAssert.test01">
     <configuration name="C02_DependsOnMethod.test01" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="com.TestNgTeam112" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tests.day01.*" />
+          <option name="PATTERN" value="tests.day14_testNgFrameWork.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="tests.day01" />
-      <option name="MAIN_CLASS_NAME" value="tests.day01.C02_DependsOnMethod" />
+      <option name="MAIN_CLASS_NAME" value="tests.day14_testNgFrameWork.C02_DependsOnMethod" />
       <option name="METHOD_NAME" value="test01" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
@@ -51,13 +71,31 @@
       <module name="com.TestNgTeam112" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tests.day01.*" />
+          <option name="PATTERN" value="tests.day14_testNgFrameWork.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="tests.day01" />
-      <option name="MAIN_CLASS_NAME" value="tests.day01.C02_DependsOnMethod" />
+      <option name="MAIN_CLASS_NAME" value="tests.day14_testNgFrameWork.C02_DependsOnMethod" />
       <option name="METHOD_NAME" value="test02" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C03_SoftAssert.test01" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="com.TestNgTeam112" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.day15_hard_soft_assert.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests.day15_hard_soft_assert" />
+      <option name="MAIN_CLASS_NAME" value="tests.day15_hard_soft_assert.C03_SoftAssert" />
+      <option name="METHOD_NAME" value="test01" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -67,6 +105,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.C03_SoftAssert.test01" />
         <item itemvalue="TestNG.C02_DependsOnMethod.test01" />
         <item itemvalue="TestNG.C02_DependsOnMethod.test02" />
       </list>

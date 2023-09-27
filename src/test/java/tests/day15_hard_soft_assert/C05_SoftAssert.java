@@ -6,6 +6,7 @@ import org.testng.annotations.Test;
 import org.testng.asserts.SoftAssert;
 import pages.ZeroPage;
 import utilities.Driver;
+import utilities.ReusableMethods;
 
 import java.util.ArrayList;
 import java.util.Arrays;
@@ -90,6 +91,11 @@ public class C05_SoftAssert {
 
 
         softAssert.assertAll();
+
+        ReusableMethods.waitFor(2);
+
+        Driver.closeDriver();
+
 
     }
 }

@@ -5,11 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2dfb819a-1d73-4b1e-8b59-0a2466a338ed" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/pages/ZeroPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/day15_hard_soft_assert/C05_SoftAssert.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/configuration.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pages/QualityDemyPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/day16_POM/C01_PositiveLoginTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/day16_POM/C02_NegativeLoginTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/day16_POM/C03_PositiveLoginTestWithConfPro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/day16_POM/C04_NegativeLoginTestWithConfPro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/utilities/ConfigReader.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/pages/AmazonPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pages/AmazonPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/tests/day15_hard_soft_assert/C04_SoftAssert.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/day15_hard_soft_assert/C04_SoftAssert.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/day15_hard_soft_assert/C05_SoftAssert.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/day15_hard_soft_assert/C05_SoftAssert.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/day15_hard_soft_assert/C05_SoftAssert.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/tests/day15_hard_soft_assert/C05_SoftAssert.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

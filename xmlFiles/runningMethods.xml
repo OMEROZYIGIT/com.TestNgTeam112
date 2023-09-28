@@ -1,0 +1,16 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="Running Methods">
+    <test name="We will run methods">
+        <classes>
+            <class name="tests.day16_POM.C02_NegativeLoginTest">
+                <methods>
+
+                    <exclude name="invalidEmailAndInpasswordTest"></exclude>
+
+                </methods>
+            </class>
+            <class name="tests.day14_testNgFrameWork.C02_DependsOnMethod"></class>
+            <class name="tests.day15_hard_soft_assert.C02_SoftAssertion"></class>
+        </classes>
+    </test>
+</suite>

@@ -1,0 +1,14 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="Running Groups">
+    <test name="We will run Groups">
+        <groups>
+            <run>
+                <include name="reg1"></include>
+            </run>
+        </groups>
+        <packages>
+            <package name="tests.day14_testNgFrameWork"></package>
+            <package name="tests.day15_hard_soft_assert"></package>
+        </packages>
+    </test>
+</suite>

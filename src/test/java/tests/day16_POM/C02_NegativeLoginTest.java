@@ -66,7 +66,7 @@ public class C02_NegativeLoginTest {
     }
 
     @Test (priority = 3)
-    public void invalidEmailAndPasswordTest() {
+    public void invalidEmailAndInpasswordTest() {
 
         qualityDemyPage = new QualityDemyPage();
 

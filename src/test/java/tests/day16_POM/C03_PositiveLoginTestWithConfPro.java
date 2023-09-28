@@ -38,7 +38,6 @@ public class C03_PositiveLoginTestWithConfPro {
         // 6) test that user could be able to log in
         Assert.assertTrue(qualityDemyPage.userHomePageMyCourcesButton.isDisplayed());
 
-
         Driver.closeDriver();
 
     }

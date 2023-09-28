@@ -5,25 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2dfb819a-1d73-4b1e-8b59-0a2466a338ed" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/xmlFiles/runningRegressionTests.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xmlFiles/runningSmokeTests.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/day18HtmlReport/C01_CreatingReports.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xmlFiles/runningParalelTests.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/tests/day14_testNgFrameWork/C03_NutellaTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/day14_testNgFrameWork/C03_NutellaTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/tests/day15_hard_soft_assert/C01_HardAssert.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/day15_hard_soft_assert/C01_HardAssert.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/tests/day15_hard_soft_assert/C02_SoftAssertion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/day15_hard_soft_assert/C02_SoftAssertion.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/tests/day15_hard_soft_assert/C03_SoftAssert.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/day15_hard_soft_assert/C03_SoftAssert.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/tests/day16_POM/C01_PositiveLoginTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/day16_POM/C01_PositiveLoginTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/tests/day16_POM/C03_PositiveLoginTestWithConfPro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/day16_POM/C03_PositiveLoginTestWithConfPro.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/tests/day16_POM/C04_NegativeLoginTestWithConfPro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/day16_POM/C04_NegativeLoginTestWithConfPro.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/day14_testNgFrameWork/C02_DependsOnMethod.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/tests/day14_testNgFrameWork/C02_DependsOnMethod.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/day14_testNgFrameWork/C03_NutellaTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/tests/day14_testNgFrameWork/C03_NutellaTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/day15_hard_soft_assert/C01_HardAssert.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/tests/day15_hard_soft_assert/C01_HardAssert.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/day15_hard_soft_assert/C02_SoftAssertion.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/tests/day15_hard_soft_assert/C02_SoftAssertion.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/day15_hard_soft_assert/C03_SoftAssert.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/tests/day15_hard_soft_assert/C03_SoftAssert.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/day16_POM/C01_PositiveLoginTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/tests/day16_POM/C01_PositiveLoginTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/day16_POM/C03_PositiveLoginTestWithConfPro.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/tests/day16_POM/C03_PositiveLoginTestWithConfPro.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/day16_POM/C04_NegativeLoginTestWithConfPro.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/tests/day16_POM/C04_NegativeLoginTestWithConfPro.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xmlFiles/runningGroups.xml" beforeDir="false" afterPath="$PROJECT_DIR$/xmlFiles/runningGroups.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/configuration.properties" beforeDir="false" afterPath="$PROJECT_DIR$/configuration.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/utilities/TestBaseRapor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/utilities/TestBaseRapor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/day16_POM/C02_NegativeLoginTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/tests/day16_POM/C02_NegativeLoginTest.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

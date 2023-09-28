@@ -22,14 +22,14 @@ public abstract class TestBaseRapor {
     @BeforeTest (alwaysRun = true)
     public void setUpTest(){
         extentReports = new ExtentReports();
-        String date = new SimpleDateFormat("yyyyMMddhhmmss").format(new Date());
-        String filePath = System.getProperty("user.dir")+"/tes-output/Rapor"+date+"html";
+        String date = new SimpleDateFormat("yyyyMMdd-hhmmss").format(new Date());
+        String filePath = System.getProperty("user.dir")+"/test-output/Rapor"+date+".html";
         extentHtmlReporter = new ExtentHtmlReporter(filePath);
         extentReports.attachReporter(extentHtmlReporter);
 
         extentReports.setSystemInfo("Enviroment","QA");
         extentReports.setSystemInfo("Browser",ConfigReader.getProperty("browser"));
-        extentReports.setSystemInfo("Automation Engineer","Ömer");
+        extentReports.setSystemInfo("Automation Engineer","OMER");
         extentHtmlReporter.config().setDocumentTitle("First Test");
         extentHtmlReporter.config().setReportName("TestNG Reports");
     }

@@ -10,7 +10,7 @@ import utilities.ReusableMethods;
 
 public class C03_SoftAssert {
 
-    @Test
+    @Test (groups = "reg2")
     public void test01() {
 
         // go to https://www.amazon.com

@@ -34,7 +34,7 @@ public class C02_NegativeLoginTest {
         // 6) test that user SHOULD NOT be able to log in
         Assert.assertTrue(qualityDemyPage.enterYourCreateText.isDisplayed());
 
-        Driver.closeDriver();
+        Driver.quitDriver();
 
     }
 
@@ -61,7 +61,7 @@ public class C02_NegativeLoginTest {
         // 6) test that user SHOULD NOT be able to log in
         Assert.assertTrue(qualityDemyPage.enterYourCreateText.isDisplayed());
 
-        Driver.closeDriver();
+        Driver.quitDriver();
 
     }
 
@@ -89,7 +89,7 @@ public class C02_NegativeLoginTest {
         // 6) test that user SHOULD NOT be able to log in
         Assert.assertTrue(qualityDemyPage.enterYourCreateText.isDisplayed());
 
-        Driver.closeDriver();
+        Driver.quitDriver();
 
     }
 }

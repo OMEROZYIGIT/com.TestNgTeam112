@@ -15,7 +15,7 @@ public class C03_PositiveLoginTestWithConfPro {
     // 5) click login button
     // 6) test that user could be able to log in
 
-    @Test
+    @Test (groups = "smoke")
     public void positiveLoginTest() {
 
         QualityDemyPage qualityDemyPage = new QualityDemyPage();
@@ -38,7 +38,7 @@ public class C03_PositiveLoginTestWithConfPro {
         // 6) test that user could be able to log in
         Assert.assertTrue(qualityDemyPage.userHomePageMyCourcesButton.isDisplayed());
 
-        Driver.closeDriver();
+        Driver.quitDriver();
 
     }
 }

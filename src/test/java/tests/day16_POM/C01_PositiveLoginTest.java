@@ -15,7 +15,7 @@ public class C01_PositiveLoginTest {
     // 5) click login button
     // 6) test that user could be able to log in
 
-    @Test
+    @Test (groups = {"reg2","smoke"})
     public void test01() {
 
 

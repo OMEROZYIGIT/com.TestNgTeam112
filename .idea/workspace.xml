@@ -5,23 +5,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2dfb819a-1d73-4b1e-8b59-0a2466a338ed" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/day17_ReusableMwethods_XmlFiles/C01_SwitchToNewWindow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xmlFiles/runningClasses.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xmlFiles/runningGroups.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xmlFiles/runningMethods.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xmlFiles/runningPackages.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xmlFiles/runningRegressionTests.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xmlFiles/runningSmokeTests.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/configuration.properties" beforeDir="false" afterPath="$PROJECT_DIR$/configuration.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/tests/day14_testNgFrameWork/C02_DependsOnMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/day14_testNgFrameWork/C02_DependsOnMethod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/day14_testNgFrameWork/C03_NutellaTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/day14_testNgFrameWork/C03_NutellaTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/day15_hard_soft_assert/C01_HardAssert.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/day15_hard_soft_assert/C01_HardAssert.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/tests/day15_hard_soft_assert/C02_SoftAssertion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/day15_hard_soft_assert/C02_SoftAssertion.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/tests/day16_POM/C02_NegativeLoginTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/day16_POM/C02_NegativeLoginTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/day15_hard_soft_assert/C03_SoftAssert.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/day15_hard_soft_assert/C03_SoftAssert.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/day16_POM/C01_PositiveLoginTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/day16_POM/C01_PositiveLoginTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/tests/day16_POM/C03_PositiveLoginTestWithConfPro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/day16_POM/C03_PositiveLoginTestWithConfPro.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/utilities/Driver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/utilities/Driver.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/utilities/ReusableMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/utilities/ReusableMethods.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/day16_POM/C02_NegativeLoginTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/tests/day16_POM/C02_NegativeLoginTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/day16_POM/C04_NegativeLoginTestWithConfPro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/day16_POM/C04_NegativeLoginTestWithConfPro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/day14_testNgFrameWork/C02_DependsOnMethod.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/tests/day14_testNgFrameWork/C02_DependsOnMethod.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/day14_testNgFrameWork/C03_NutellaTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/tests/day14_testNgFrameWork/C03_NutellaTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/day15_hard_soft_assert/C01_HardAssert.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/tests/day15_hard_soft_assert/C01_HardAssert.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/day15_hard_soft_assert/C02_SoftAssertion.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/tests/day15_hard_soft_assert/C02_SoftAssertion.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/day15_hard_soft_assert/C03_SoftAssert.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/tests/day15_hard_soft_assert/C03_SoftAssert.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/day16_POM/C01_PositiveLoginTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/tests/day16_POM/C01_PositiveLoginTest.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/test-classes/tests/day16_POM/C03_PositiveLoginTestWithConfPro.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/tests/day16_POM/C03_PositiveLoginTestWithConfPro.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/utilities/Driver.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/utilities/Driver.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/utilities/ReusableMethods.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/utilities/ReusableMethods.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/day16_POM/C04_NegativeLoginTestWithConfPro.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/tests/day16_POM/C04_NegativeLoginTestWithConfPro.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xmlFiles/runningGroups.xml" beforeDir="false" afterPath="$PROJECT_DIR$/xmlFiles/runningGroups.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,34 +56,6 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager" selected="TestNG.C:/Users/Zenbook/IdeaProjects/com.TestNgTeam112/xmlFiles/runningMethods.xml">
-    <configuration name="C:/Users/Zenbook/IdeaProjects/com.TestNgTeam112/xmlFiles/runnigPackages.xml" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="com.TestNgTeam112" />
-      <option name="SUITE_NAME" value="$PROJECT_DIR$/xmlFiles/runnigPackages.xml" />
-      <option name="TEST_OBJECT" value="SUITE" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="C:/Users/Zenbook/IdeaProjects/com.TestNgTeam112/xmlFiles/runningMethods.xml" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="com.TestNgTeam112" />
-      <option name="SUITE_NAME" value="$PROJECT_DIR$/xmlFiles/runningMethods.xml" />
-      <option name="TEST_OBJECT" value="SUITE" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="TestNG.C:/Users/Zenbook/IdeaProjects/com.TestNgTeam112/xmlFiles/runningMethods.xml" />
-        <item itemvalue="TestNG.C:/Users/Zenbook/IdeaProjects/com.TestNgTeam112/xmlFiles/runnigPackages.xml" />
-      </list>
-    </recent_temporary>
-  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">

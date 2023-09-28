@@ -8,7 +8,7 @@ import utilities.Driver;
 
 public class C03_NutellaTest {
 
-    @Test
+    @Test (groups = {"reg1","smoke","reg3"})
     public void test01() {
 
         Driver.getDriver().get("https://www.amazon.com");

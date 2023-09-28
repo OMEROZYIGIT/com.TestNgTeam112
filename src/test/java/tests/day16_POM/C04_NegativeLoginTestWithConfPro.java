@@ -8,7 +8,7 @@ import utilities.Driver;
 
 public class C04_NegativeLoginTestWithConfPro {
 
-    @Test
+    @Test (groups = "smoke")
     public void invalidEmailAndvalidPasswordLoginTest() {
 
         QualityDemyPage qualityDemyPage = new QualityDemyPage();
@@ -31,11 +31,11 @@ public class C04_NegativeLoginTestWithConfPro {
         // 6) test that user SHOULD NOT able to log in
         Assert.assertTrue(qualityDemyPage.enterYourCreateText.isDisplayed());
 
-        Driver.closeDriver();
+        Driver.quitDriver();
 
     }
 
-    @Test
+    @Test (groups = "smoke")
     public void validEmailAndInvalidPasswordLoginTest() {
 
         QualityDemyPage qualityDemyPage = new QualityDemyPage();
@@ -58,11 +58,11 @@ public class C04_NegativeLoginTestWithConfPro {
         // 6) test that user SHOULD NOT able to log in
         Assert.assertTrue(qualityDemyPage.enterYourCreateText.isDisplayed());
 
-        Driver.closeDriver();
+        Driver.quitDriver();
 
     }
 
-    @Test
+    @Test (groups = "smoke")
     public void invalidEmailAndInvalidPasswordLoginTest() {
         QualityDemyPage qualityDemyPage = new QualityDemyPage();
 
@@ -84,7 +84,7 @@ public class C04_NegativeLoginTestWithConfPro {
         // 6) test that user SHOULD NOT able to log in
         Assert.assertTrue(qualityDemyPage.enterYourCreateText.isDisplayed());
 
-        Driver.closeDriver();
+        Driver.quitDriver();
 
     }
 }

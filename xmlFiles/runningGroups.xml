@@ -1,9 +1,11 @@
 <!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
-<suite name="Running Groups">
+<suite name="Running Groups"  verbose="1">
     <test name="We will run Groups">
         <groups>
             <run>
                 <include name="reg1"></include>
+                <include name="reg2"></include>
+                <exclude name="smoke1"></exclude>
             </run>
         </groups>
         <packages>

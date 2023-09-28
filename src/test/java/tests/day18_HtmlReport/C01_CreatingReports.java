@@ -1,4 +1,4 @@
-package tests.day18HtmlReport;
+package tests.day18_HtmlReport;
 
 import org.openqa.selenium.Keys;
 import org.testng.Assert;

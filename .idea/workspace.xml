@@ -5,13 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2dfb819a-1d73-4b1e-8b59-0a2466a338ed" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/day18HtmlReport/C01_CreatingReports.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xmlFiles/runningParalelTests.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/day18_HtmlReport/C02_DataProvider.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/day18_HtmlReport/C03_DataProviderNegativeLoginTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xmlFiles/runningParalelClassesTests.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/configuration.properties" beforeDir="false" afterPath="$PROJECT_DIR$/configuration.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/utilities/TestBaseRapor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/utilities/TestBaseRapor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/day16_POM/C02_NegativeLoginTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/tests/day16_POM/C02_NegativeLoginTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/day18HtmlReport/C01_CreatingReports.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/day18_HtmlReport/C01_CreatingReports.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/day18HtmlReport/C01_CreatingReports.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/Rapor20230928-091849.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/Rapor20230928-091849.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xmlFiles/runningParalelTests.xml" beforeDir="false" afterPath="$PROJECT_DIR$/xmlFiles/runningParalelTests.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

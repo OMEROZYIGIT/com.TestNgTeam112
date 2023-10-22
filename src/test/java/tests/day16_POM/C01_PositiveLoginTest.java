@@ -18,8 +18,6 @@ public class C01_PositiveLoginTest {
     @Test (groups = {"reg2","smoke"})
     public void test01() {
 
-
-
         // 1) go to the "https://www.qualitydemy.com"
         Driver.getDriver().get("https://www.qualitydemy.com");
 
@@ -41,6 +39,7 @@ public class C01_PositiveLoginTest {
         // 6) test that user could be able to log in
         Assert.assertTrue(qualityDemyPage.userHomePageMyCourcesButton.isDisplayed());
 
+        Driver.closeDriver();
 
     }
 }
